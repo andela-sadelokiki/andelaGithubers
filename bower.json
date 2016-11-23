@@ -1,0 +1,17 @@
+{
+  "name": "andelagithubers",
+  "description": "A list of Andela githubers and their repos",
+  "main": "index.js",
+  "authors": [
+    "Susan Adelokiki"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
